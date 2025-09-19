@@ -2,10 +2,8 @@ body {
 background-color: rgb(185, 66, 240);
 
 header {
- border-bottom: solid 2px rgb(131,194,243,80%); 
+ border: solid 2px rgb(131,194,243,80%); 
 }
-
-
 
 
 
