@@ -14,6 +14,7 @@ section {
     background: rgb(131,194,243,80%);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
 }
 
 
